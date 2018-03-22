@@ -1,0 +1,12 @@
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\bin\Debug\netcoreapp2.0\TwoFactAuth.deps.json
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\bin\Debug\netcoreapp2.0\TwoFactAuth.runtimeconfig.json
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\bin\Debug\netcoreapp2.0\TwoFactAuth.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\bin\Debug\netcoreapp2.0\TwoFactAuth.dll
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\bin\Debug\netcoreapp2.0\TwoFactAuth.pdb
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\TwoFactAuth.csprojResolveAssemblyReference.cache
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\TwoFactAuth.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\TwoFactAuth.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\TwoFactAuth.AssemblyInfo.cs
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\TwoFactAuth.dll
+C:\Users\ankit\source\repos\TwoFactAuth\TwoFactAuth\obj\Debug\netcoreapp2.0\TwoFactAuth.pdb
